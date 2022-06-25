@@ -2,6 +2,7 @@
 Используются:
 - scss
 - html
+- JS
 - gulp
 
 
